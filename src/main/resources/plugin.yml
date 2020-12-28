@@ -1,0 +1,10 @@
+name: Factionscore
+version: ${project.version}
+main: factionscore.factionscore.Factionscore
+api-version: 1.15
+authors: [ Eldarion ]
+description: Official faction plugin by Eldarion.
+commands:
+  faction:
+    description: Opens the faction GUI.
+    usage: /<command>
